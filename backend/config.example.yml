@@ -1,0 +1,5 @@
+environment: 1
+frontendPath: http://localhost:5173
+address: :3000
+cors:
+  - http://localhost:5173
